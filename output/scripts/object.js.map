@@ -1,0 +1,1 @@
+{"version":3,"file":"object.js","sourceRoot":"","sources":["../../scripts/object.ts"],"names":[],"mappings":";AAAA,IAAI,cAAc,GAAW;IACzB,QAAQ,EAAE,iBAAiB;IAC3B,EAAE,EAAE,WAAW;IACf,KAAK,EAAE,QAAQ;CAClB,CAAA;AAED,cAAc,GAAG;IACb,QAAQ,EAAE,uBAAuB;CACpC,CAAA;AAED,cAAc,GAAG,IAAI,KAAK,EAAE,CAAC"}
