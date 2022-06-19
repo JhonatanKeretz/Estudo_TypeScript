@@ -5,13 +5,13 @@ interface Model {
 }
 
 
-interface Pessoa extends Model {
+interface IPessoa extends Model {
     nome: string;    
     idade?: number;
 
 }
 
-interface Usuario extends Pessoa {
+interface Usuario extends IPessoa {
     
     email: string;
     senha: string;
