@@ -1,9 +1,5 @@
-function mostrarMensagem(texto:string | number | object): boolean {
+import mostrarMensagem from "./funcoes/mostrarMensagem"
 
-    console.log(texto);
-
-    return true;
-}
 
 mostrarMensagem("Olá mundo")
 console.log(mostrarMensagem("Olá mundo"));

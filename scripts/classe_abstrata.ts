@@ -53,5 +53,5 @@ new Android().enviar ({
     nome: "João",
     email: "joao@gmail.com",
     telefone: "4799859453",
-    idAndroid: "teste para enviar via Android"
+    idAndroid: "teste para enviar Android"
 }) 
